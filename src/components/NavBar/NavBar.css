@@ -1,0 +1,23 @@
+.nav-links{
+    list-style: none;
+    margin:0px;
+    padding:0px;
+}
+
+.nav-link{
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    padding:10px 20px;
+    text-decoration: none;
+    color:black;
+}
+
+.nav-link-selected{
+    color:black;
+    background-color: beige;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    padding:10px 20px;
+}
